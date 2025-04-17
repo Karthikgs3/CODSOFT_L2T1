@@ -9,7 +9,7 @@ This is a full-stack job portal application designed to streamline the job searc
 - **Application Tracking**: Job seekers can apply to jobs and track their application status.
 - **Responsive Design**: User-friendly interface adaptable to various devices.
 
-- ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - **Frontend**: React.js, Axios, React Router
 - **Backend**: Node.js, Express.js
@@ -20,12 +20,12 @@ This is a full-stack job portal application designed to streamline the job searc
 - **Environment Management**: dotenv
 - **CORS Handling**: cors
 
-- ## Prerequisites
+## Prerequisites
   
 Node.js and npm installed
 MongoDB installed and running
 
-- ## Backend Setup
+## Backend Setup
 
 - **Navigate to the backend directory**: cd backend
 - **Install dependencies**: npm install
@@ -34,12 +34,14 @@ MongoDB installed and running
 - MONGO_URI=your_mongodb_connection_string
 - **Start the backend server**: npm start
 
-- ## Frontend Setup
+## Frontend Setup
+
 - **Navigate to the frontend directory**: cd frontend
 - **Install dependencies**: npm install
 - **Start the frontend application**: npm start
 
-- ## 📷 Screenshots
+## 📷 Screenshots
+
 ![image](https://github.com/user-attachments/assets/0a5953f3-8b61-4044-813e-792626470f47)
 ![image](https://github.com/user-attachments/assets/35f293f5-fed7-4f5f-a9a4-7fa33c2efb7f)
 ![image](https://github.com/user-attachments/assets/6686a9d6-0f35-4fb5-b25e-a4e5a48d2a88)
