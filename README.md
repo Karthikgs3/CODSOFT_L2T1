@@ -11,9 +11,35 @@ This is a full-stack job portal application designed to streamline the job searc
 
 - ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, HTML, CSS
+- **Frontend**: React.js, Axios, React Router
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JSON Web Tokens (JWT)
 - **State Management**: Redux (if applicable)
 - **Styling**: CSS Modules / TailWind CSS
+- **Environment Management**: dotenv
+- **CORS Handling**: cors
+
+- ## Prerequisites
+  
+Node.js and npm installed
+MongoDB installed and running
+
+## Backend Setup
+
+**Navigate to the backend directory**: cd backend
+**Install dependencies**: npm install
+**Create a .env file in the backend directory and add the following**:
+PORT=port_number
+MONGO_URI=your_mongodb_connection_string
+**Start the backend server**: npm start
+
+## Frontend Setup
+**Navigate to the frontend directory**: cd frontend
+**Install dependencies**: npm install
+**Start the frontend application**: npm start
+
+## 📷 Screenshots
+![image](https://github.com/user-attachments/assets/0a5953f3-8b61-4044-813e-792626470f47)
+
+
